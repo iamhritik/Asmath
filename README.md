@@ -1,5 +1,5 @@
-# Textract
-Textract is a program that extract texts from images and then save into a pdf file with the help of different modules.
+# Asmath
+ASamth is a program that extract texts from images and then save into a pdf file with the help of different modules.
 
 # Prerequisite
 - Python3.5
@@ -18,7 +18,7 @@ Textract is a program that extract texts from images and then save into a pdf fi
 > pip install pillow pytesseract opencv-python fpdf
   
 # Usage
-  python .py --image images/image.png
+  python asmath.py --image images/image.png
   
 
 
