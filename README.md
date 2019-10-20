@@ -1,5 +1,5 @@
 # Asmath
-Asmath is a program that extract texts from images and then save into a pdf file with the help of different modules.
+Asmath is a program that extract texts from images and then save into a pdf file.
 
 # Prerequisite
 - Python3.5
@@ -18,7 +18,7 @@ Asmath is a program that extract texts from images and then save into a pdf file
 > pip install pillow pytesseract opencv-python fpdf
   
 # Usage
-  python asmath.py --image images/image.png
+  python asmath.py --name image.png
   
 
 
